@@ -2,7 +2,7 @@
 
 #### 介绍
 {**open-async并发编排工具**
-并发编排工具 [https://gitee.com/choumingde/open-async](https://gitee.com/choumingde/open-async)}
+并发编排工具 [https://github.com/choumingde/open-async](https://github.com/choumingde/open-async)}
 
 #### 软件架构
     Java 1.8
